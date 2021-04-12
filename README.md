@@ -9,7 +9,7 @@
 <div style="text-align: justify">
 
 ### Descrição
-Design Mobile do Google desenvolvido em HTML5 e CSS3.
+Design Mobile da Homepage do Google desenvolvido em HTML5 e CSS3.
 Esse projeto foi desenvolvido com base em um vídeo da Rocketseat 
 
 </div>
