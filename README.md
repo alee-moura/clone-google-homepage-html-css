@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="demo.png">
+  <img src="github/demo.png">
 </p>
 
 ---
