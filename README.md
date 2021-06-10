@@ -1,40 +1,51 @@
-<div align="center">
+<h1 align="center">Google Homepage</h1>
+<p align="center">Google Homepage Mobile Design developed in HTML5 and CSS3. This project was developed based on a video from rocketseat.
+</br>
+<a href="https://www.youtube.com/watch?v=KgjzE1Sxtq0">Access Video</a>
+</p>
 
-![Demo](readme/demo.png)
+<p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ale-mouraboni/clone-google-homepage-html-css">
 
-</div>
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/ale-mouraboni/clone-google-homepage-html-css">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ale-mouraboni/clone-google-homepage-html-css">
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/ale-mouraboni/clone-google-homepage-html-css">
+</p>
+
+<p align="center">
+  <a href="#rocket-about">About</a>
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
+
+<p align="center">
+  <img src="demo.png">
+</p>
 
 ---
 
-<div style="text-align: justify">
+### :rocket: About
+Project information
 
-### Descrição
-Design Mobile da Homepage do Google desenvolvido em HTML5 e CSS3.
-Esse projeto foi desenvolvido com base em um vídeo da Rocketseat 
-
-</div>
-
-#### Link da Plataforma:
-
-* [Rocketseat](https://rocketseat.com.br/)
-
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+:heavy_check_mark: Project developed with the following technologies:
 * HTML5
 * CSS3
 
-Para ver o projeto você pode clonar ele com o seguinte comando:    
+:heavy_check_mark: Clone the project with the command:
 
 ```sh
 git clone https://github.com/ale-mouraboni/clone-google-homepage-html-css.git
 ```  
   
-Você também pode baixar o arquivo .zip do projeto, basta clicar no botão abaixo.  
+:heavy_check_mark: Or download the .zip file:  
   
-* [Baixar Projeto](https://github.com/ale-mouraboni/clone-google-homepage-html-css/archive/refs/heads/main.zip)
+* [Download Project](https://github.com/ale-mouraboni/clone-google-homepage-html-css/archive/refs/heads/main.zip)
 
 ---
 
-### License
+### :memo: License
 This project is under the MIT license. See the [LICENSE] for more information.
 
 ---
